@@ -5,7 +5,7 @@ __pycache__/
 *$py.class
 
 # datasets
-datasets/*/
+datasets/*
 
 # C extensions
 *.so
