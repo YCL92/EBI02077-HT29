@@ -10,6 +10,5 @@ ENV_NAME := torch11x
 .PHONY: env
 env:
 	conda env create -f conda-env.yml -n $(ENV_NAME)
-	#conda env update --prune -f conda-env.yml
 	$(CONDA_ACTIVATE) $(ENV_NAME)
 	visdom -port 8000 & jupyter notebook --port 8001
