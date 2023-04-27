@@ -5,6 +5,10 @@ Tested on Ubuntu 20.04 with pyTorch 1.12 and CUDA 11.6
 
 
 
+2023-04-27 update:
+
+- Improved code readability.
+
 2023-04-25 update:
 
 - Added prior distribution learning;
