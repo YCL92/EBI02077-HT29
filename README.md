@@ -1,5 +1,4 @@
-# EBI02077
-Unsupervised human HT29 colon cancer cell morphology classification based on Deep InfoMax ([link](https://arxiv.org/abs/1808.06670) to paper)
+# Unsupervised human HT29 colon cancer cell morphology classification based on Deep InfoMax ([link](https://arxiv.org/abs/1808.06670) to paper)
 
 Tested on Ubuntu 20.04 with pyTorch 1.12 and CUDA 11.6
 
